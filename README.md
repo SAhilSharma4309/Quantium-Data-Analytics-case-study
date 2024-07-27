@@ -1,2 +1,2 @@
 # Quantium-Data-Analytics-case-study
-Completed a case study focused on Data Analytics and Commercial Insights for the data team. Utilizing transaction ad customers datasets to extract valuable insights and deliver data-driven commercial recommendations. 
+I completed a case study focused on data analytics and commercial insights for the data team. Utilizing transaction and customer datasets to extract valuable insights and deliver data-driven commercial recommendations. 
